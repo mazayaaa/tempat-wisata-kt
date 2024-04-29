@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">TEMPAT WISATA</string>
+
+    <string name="nama_tempatwisata">Nama Tempat Wisata</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Kampung Arab</item>
+        <item>Klenteng Sanggar Agung</item>
+        <item>House of Sampoerna</item>
+        <item>Tugu Pahlawan Surabaya</item>
+        <item>Museum 10 Nopember</item>
+        <item>Kebun Binatang Surabaya</item>
+        <item>Hotel Majapahit</item>
+        <item>Patung Suro dan Boyo</item>
+        <item>Atlantis</item>
+        <item>Ekowisata Mangrove</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Kampung Arab merupakan salah satu kawasan yang menarik di Surabaya yang menggambarkan kekayaan budaya Arab. Terletak di sekitar Jalan Kembang Jepun, kawasan ini menawarkan pengalaman unik bagi pengunjung yang ingin merasakan atmosfer Timur Tengah di tengah kota. Arsitektur bangunan di Kampung Arab sangat khas, dengan fasad yang dihiasi dengan ornamen-ornamen tradisional Arab. Selain itu, kawasan ini juga terkenal dengan berbagai kuliner khas Arab yang lezat, seperti hummus, kebab, falafel, dan shawarma, yang dapat dinikmati di berbagai restoran dan warung makan yang tersebar di sekitar kampung. Tidak hanya itu, Kampung Arab juga merupakan tempat yang ideal untuk berbelanja oleh-oleh atau souvenir, dengan banyaknya toko-toko yang menjual barang-barang kerajinan dan pernak-pernik tradisional Arab.
+        </item>
+        <item>Klenteng Sanggar Agung adalah salah satu klenteng tertua dan terbesar di Surabaya. Dibangun pada abad ke-18 oleh komunitas Tionghoa di kota ini, klenteng ini menjadi pusat kegiatan keagamaan dan kebudayaan bagi masyarakat Tionghoa di Surabaya. Arsitektur klenteng ini sangat megah, dengan atap yang dihiasi dengan ukiran-ukiran kayu yang indah dan patung-patung dewa yang menghiasi ruang ibadah. Klenteng Sanggar Agung juga sering menjadi tujuan wisata bagi pengunjung yang ingin mengenal lebih jauh tentang budaya Tionghoa dan ikut serta dalam berbagai festival dan upacara keagamaan yang diselenggarakan di sini.
+        </item>
+        <item>House of Sampoerna merupakan museum yang menarik yang terletak di bekas pabrik rokok Sampoerna di Surabaya. Museum ini didedikasikan untuk memperkenalkan sejarah industri tembakau di Indonesia serta proses pembuatan rokok tradisional secara manual. Pengunjung dapat melihat berbagai koleksi artefak bersejarah, termasuk mesin-mesin rokok antik dan peralatan pembuatan rokok yang digunakan oleh perajin rokok Sampoerna. Selain itu, museum ini juga menampilkan berbagai pameran yang menggambarkan perkembangan industri tembakau di Indonesia dan peran penting perusahaan Sampoerna dalam menjaga tradisi pembuatan rokok secara manual.
+        </item>
+        <item>Tugu Pahlawan Surabaya adalah salah satu monumen peringatan yang paling penting di Surabaya. Dibangun untuk menghormati para pahlawan yang gugur dalam Pertempuran Surabaya pada tahun 1945, tugu ini menjadi simbol keberanian dan semangat perjuangan rakyat Surabaya dalam mempertahankan kemerdekaan Indonesia. Monumen ini memiliki desain yang mengesankan, dengan pilar-pilar yang menjulang tinggi sebagai simbol kekuatan dan keteguhan hati para pejuang. Di sekitar tugu, terdapat taman yang indah yang sering digunakan sebagai tempat untuk acara peringatan dan upacara keagamaan.
+        </item>
+        <item>Museum 10 Nopember adalah museum sejarah yang terletak di pusat kota Surabaya. Museum ini didedikasikan untuk memperingati peristiwa-peristiwa penting yang terjadi pada tanggal 10 November, termasuk Pertempuran Surabaya dan proklamasi kemerdekaan Indonesia. Pengunjung dapat melihat berbagai koleksi artefak, foto, dan dokumentasi yang menggambarkan perjuangan rakyat Surabaya dalam memperjuangkan kemerdekaan. Museum ini menjadi tempat yang penting untuk memahami sejarah dan nilai-nilai kepahlawanan yang menjadi bagian dari identitas kota Surabaya.
+        </item>
+        <item>Kebun Binatang Surabaya adalah salah satu kebun binatang terbesar di Indonesia yang terletak di Surabaya. Kebun binatang ini menawarkan pengalaman unik bagi pengunjung yang ingin mengenal lebih dekat dengan berbagai jenis satwa dari seluruh dunia. Selain sebagai tempat konservasi satwa liar, kebun binatang ini juga menjadi tujuan rekreasi yang populer bagi keluarga, dengan berbagai wahana dan atraksi yang ditawarkan. Pengunjung dapat melihat berbagai macam satwa, mulai dari mamalia, burung, reptil, hingga satwa air, dan belajar tentang habitat alami mereka serta upaya konservasi yang dilakukan untuk melindungi spesies-spesies tersebut.
+        </item>
+        <item>Hotel Majapahit adalah salah satu hotel bersejarah yang paling terkenal di Surabaya. Dibangun pada tahun 1910, hotel ini telah menjadi salah satu ikon kota Surabaya dan menjadi tempat menginap bagi banyak tokoh terkenal dari dalam maupun luar negeri. Dengan arsitektur yang megah dan interior yang mewah, hotel ini menawarkan pengalaman menginap yang istimewa bagi para tamu yang menghargai nilai-nilai sejarah dan kemewahan. Selain itu, Hotel Majapahit juga menawarkan berbagai fasilitas dan layanan yang lengkap, termasuk restoran, spa, kolam renang, dan pusat kebugaran.
+        </item>
+        <item>Patung Suro dan Boyo adalah sebuah patung yang terletak di Alun-Alun Kota Surabaya. Patung ini menggambarkan legenda asal-usul nama kota Surabaya, yang menurut cerita, berasal dari kata "suro" yang berarti buaya dan "boyo" yang berarti singa. Patung ini menjadi salah satu landmark populer di Surabaya dan sering menjadi objek foto wisatawan yang berkunjung ke kota ini. Di sekitar patung, terdapat taman yang indah yang sering menjadi tempat untuk bersantai dan menikmati pemandangan kota.
+        </item>
+        <item>Atlantis adalah sebuah taman rekreasi air yang menyajikan berbagai wahana dan atraksi seru bagi pengunjung di Surabaya. Terletak di dalam kompleks Atlantis Land, taman rekreasi ini menjadi destinasi populer bagi keluarga dan pengunjung yang mencari kesenangan dan hiburan di lingkungan air. Atlantis menawarkan beragam wahana air, mulai dari kolam renang untuk anak-anak hingga seluncuran air yang menegangkan untuk para petualang air. Pengunjung dapat merasakan sensasi yang menyegarkan dengan menikmati berenang atau bersantai di tepi kolam, sambil menikmati suasana yang riang di sekitar taman rekreasi ini. Tidak hanya itu, Atlantis juga menyediakan berbagai fasilitas pendukung, seperti area makan dan minum, tempat penyewaan perlengkapan renang, serta area bermain untuk anak-anak, sehingga pengunjung dapat menghabiskan waktu yang menyenangkan di sini tanpa kekurangan hiburan.
+        </item>
+        <item>Ekowisata Mangrove merupakan destinasi yang cocok bagi pengunjung yang ingin menjelajahi keindahan alam dan belajar tentang pentingnya konservasi mangrove di Surabaya. Terletak di kawasan konservasi mangrove, tempat ini menawarkan pengalaman unik berupa jelajah hutan mangrove dengan berjalan-jalan melalui jembatan kayu atau menaiki perahu. Pengunjung dapat menikmati keindahan alam yang menakjubkan sambil menyaksikan berbagai jenis tumbuhan dan satwa yang hidup di dalam hutan mangrove. Selain itu, Ekowisata Mangrove juga menyediakan berbagai kegiatan edukasi tentang pentingnya menjaga ekosistem mangrove dan perlindungan lingkungan. Pengunjung dapat belajar tentang peran penting mangrove dalam menjaga keseimbangan ekosistem laut dan perlindungan pantai dari abrasi dan tsunami. Dengan demikian, Ekowisata Mangrove menjadi tempat yang ideal bagi pengunjung yang ingin menyegarkan pikiran sambil menikmati keindahan alam dan belajar tentang keanekaragaman hayati di Indonesia.
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/kampung_arab</item>
+        <item>@drawable/klenteng_sanggar_agung</item>
+        <item>@drawable/house_sampoerna</item>
+        <item>@drawable/tugu_pahlawan</item>
+        <item>@drawable/museum_10nop</item>
+        <item>@drawable/kbs</item>
+        <item>@drawable/hotel_majapahit</item>
+        <item>@drawable/patung_sby</item>
+        <item>@drawable/atlantis</item>
+        <item>@drawable/wisata_mangrove</item>
+    </integer-array>
+</resources>
